@@ -17,7 +17,7 @@ This repository is ideal for researchers, developers, and security enthusiasts i
 🚀 Usage Guide
 Follow the steps below to run the application on your machine:
 1. Clone the repository
-git clone https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI.git
+git clone it https://github.com/chador2003/DeepFake-Detection-and-Prevention
 2. Navigate to the project directory
 cd DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI
 3. Install dependencies
